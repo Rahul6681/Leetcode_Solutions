@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
