@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [1470-shuffle-the-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
