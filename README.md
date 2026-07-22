@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1470-shuffle-the-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
