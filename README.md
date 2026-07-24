@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0485-max-consecutive-ones](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0994-rotting-oranges](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1470-shuffle-the-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
