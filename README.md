@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3310-remove-methods-from-project](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0994-rotting-oranges](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3310-remove-methods-from-project](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+| [3310-remove-methods-from-project](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
