@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0065-valid-number](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0065-valid-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
 |  |
