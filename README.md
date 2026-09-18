@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0134-gas-station) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0065-valid-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
