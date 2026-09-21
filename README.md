@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0503-next-greater-element-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0065-valid-number) |
+| [0224-basic-calculator](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0120-triangle) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
