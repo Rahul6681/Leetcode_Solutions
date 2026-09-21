@@ -160,9 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
