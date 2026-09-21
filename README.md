@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0485-max-consecutive-ones](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Rahul6681/Leetcode_Solutions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
